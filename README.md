@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: __Courtney Cox____________________________
+Name: __Courtney Cox___________________________
 
 ## DUE: 31 Aug 2017
 
