@@ -1,0 +1,28 @@
+h1 {
+    background-image:url("imgs/background.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 45%;
+}
+
+p {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+}
+
+#topStory {
+    text-align: center;
+    list-style-position: inside;
+}
